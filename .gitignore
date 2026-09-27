@@ -42,8 +42,8 @@ captures/
 *.jks
 *.keystore
 
-# Google Services secret file (optional - keep private)
-# app/google-services.json
+# Google Services secret file
+app/google-services.json
 
 # OS generated files
 .DS_Store
